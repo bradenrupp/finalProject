@@ -1,0 +1,92 @@
+*	{
+	padding: 0px;
+	margin: 0px;
+}
+
+h1	{text-align: center;
+	color: #F0F0F0;
+	padding: 5px;}
+
+h2.light	{
+	text-align: center;
+	color: #333;
+	}
+
+h2.dark	{
+	text-align: center;
+	}
+
+p	{text-align: center;
+	padding: 15px;}
+
+hr	{
+	border-width: 1px;
+	color: black;
+	width: 75%;
+	margin: auto;
+}
+
+footer {
+	width: 100%;
+	background:#F0F0F0;
+	text-align: center;
+	bottom: 0;
+	margin-bottom: -15px; 
+}
+
+
+td.alignLeft 		{text-align: left;
+					padding-left: 10px;}
+td.alignRight 		{text-align: right;}
+td.tdWidth			{width: 3em;
+					padding: 7px;}
+td.verticalAlign	{padding-top: 25px;}
+
+td.seeMore	{color: #333;
+			font-size: 1.2em;
+			padding: 7px;
+			border: 2px solid;
+			border-radius: 10px;
+			border-color: black;
+			text-align: center;
+			}
+
+table.center	{
+		padding: 5px;
+		margin: auto;
+}
+
+table.nav	{width: 100%;
+		text-align: right;
+	    border-collapse: collapse;
+	    font-size: 28px;
+	    position: fixed;
+	    background-color: transparent;
+	    border-bottom-right-radius: 5px;
+	    border-bottom-left-radius: 5px;
+	    color: #F0F0F0;
+	    font-weight: bold;
+	    padding: 45px;
+		}
+
+
+/* Background Header Image */
+.header{
+    background-image: url('drums.jpg');
+    width:2048px;
+    height:1536px;
+}
+
+
+.bg {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+	
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: 750px;
+	
+
+}
+
